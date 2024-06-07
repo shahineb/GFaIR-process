@@ -5,7 +5,7 @@
 </p>
 
 
-        
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8180360.svg)](https://doi.org/10.5281/zenodo.8180360)
 
 
@@ -81,10 +81,14 @@ $ (venv) pip install -r requirements.txt
 
 #### References
 ```
-@article{bouabid2023fairgp,
-  title={{FaIRGP: A Bayesian Energy Balance Model for Surface Temperatures Emulation}},
+@article{bouabid2024fairgp,
+  title={FaIRGP: A Bayesian Energy Balance Model for Surface Temperatures Emulation},
   author={Bouabid, Shahine and Sejdinovic, Dino and Watson-Parris, Duncan},
-  journal={arXiv preprint arXiv:2307.10052},
-  year={2023}
+  journal={Journal of Advances in Modeling Earth Systems},
+  volume={16},
+  number={6},
+  pages={e2023MS003926},
+  year={2024},
+  publisher={Wiley Online Library}
 }
 ```
